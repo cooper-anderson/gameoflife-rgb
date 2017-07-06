@@ -24,8 +24,11 @@ The actual Game of Life that is running here is just running like normal. Howeve
 
 ## Controls
 `q` - Quit out of the program
+
 `r` - Generate new random grid
+
 `c` - Clear current grid
+
 `g` - Generate a glider in the top left
 
 ## Screenshots
