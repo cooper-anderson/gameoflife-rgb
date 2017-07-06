@@ -34,5 +34,6 @@ The actual Game of Life that is running here is just running like normal. Howeve
 
 ## Credits
 Inspiration goes to [Cary Huang](https://www.youtube.com/user/carykh) for his recent video on computer generated jazz music. He used the same way of displaying pixels for showing midi for the neural net. I found this very interesting and wanted to expand upon the idea.
+
 I might continue this project and add support for [Stephen Wolfram's Rule 135](https://en.wikipedia.org/wiki/Rule_30) in addition to John Conway's Game of Life.
 
